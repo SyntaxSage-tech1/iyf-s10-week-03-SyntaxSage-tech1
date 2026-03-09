@@ -26,14 +26,14 @@ I have Learnt that i can use terminal commands and Git workflow to manage <br> p
 ## Project Structure
 
 \`\`\`
-iyf-s10-week-03-yourusername/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-├── css/
-│   └── styles.css
-└── images/
+iyf-s10-week-03-yourusername/<br>
+├── index.html<br>
+├── about.html<br>
+├── projects.html<br>
+├── contact.html<br>
+├── css/<br>
+│   └── styles.css<br>
+└── images/<br>
 \`\`\`
 
 ## What I Learned
